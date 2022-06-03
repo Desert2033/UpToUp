@@ -1,3 +1,3 @@
 # Test3d
-Up and Up !!! Jump and get as high as you can.
+Up and Up !!! Jump and get as high as you can and don't fall
 
